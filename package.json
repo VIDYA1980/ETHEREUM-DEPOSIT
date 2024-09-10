@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bignumber.js": "^9.1.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "mongoose": "^8.6.1",
+    "web3": "^4.12.1",
+    "winston": "^3.14.2"
+  },
+  "name": "hihello",
+  "version": "1.0.0",
+  "main": "demo-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
